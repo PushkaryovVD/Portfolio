@@ -8,7 +8,7 @@ https://pushkaryovvd.github.io/airasia/
 ## Сайт салона красоты написанные с использование #nodejs и препроцессора #scss
 https://pushkaryovvd.github.io/akame/
 ## Йога студия
-https://pushkaryovvd.github.io/YogaLife/
+https://pushkaryovvd.github.io/ArinaYoga/
 ## Интернет-магазин игрушек "Теремок"
 https://pushkaryovvd.github.io/teremok/
 
